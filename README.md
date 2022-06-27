@@ -1,6 +1,6 @@
 # CAUTION:
 
-EDUCATION PURPOSES ONLY
+EDUCATIONAL PURPOSES ONLY
 - All the files are for **educational purposes** only
 - ***DO NOT*** use this for doing illegal purposes
 
