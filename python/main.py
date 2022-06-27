@@ -8,4 +8,7 @@ response = handler.getDetails(ip_address)
 
 country_lf = pycountry.countries.get(alpha_2=response.country)
 
-print(f"Country: {} \n City: {} \n Timezone: {} \n Location: {}".format(country_lf, response.city, response.timezone, response.loc))
+if response.loc != undefined:
+  print(f"Country: {} \n City: {} \n Timezone: {} \n Location: {}".format(country_lf, response.city, response.timezone, response.loc))
+else:
+  print("Give me real IP Address next time")
