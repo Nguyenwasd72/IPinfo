@@ -8,4 +8,4 @@ response = handler.getDetails(ip_address)
 
 country_lf = pycountry.countries.get(alpha_2=response.country)
 
-print(f"{} \n {}response.city \n {} \n {}".format(country_lf, response.city, response.timezone, response.loc))
+print(f"Country: {} \n City: {} \n Timezone: {} \n Location: {}".format(country_lf, response.city, response.timezone, response.loc))
