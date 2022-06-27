@@ -11,4 +11,4 @@ country_lf = pycountry.countries.get(alpha_2=response.country)
 if response.loc != undefined:
   print(f"Country: {} \n City: {} \n Timezone: {} \n Location: {}".format(country_lf, response.city, response.timezone, response.loc))
 else:
-  print("Give me real IP Address next time")
+  print("Give me a real IP address next time")
