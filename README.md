@@ -4,13 +4,13 @@ EDUCATION PURPOSES ONLY
 - All the files are for **educational purposes** only.  
 - ***DO NOT*** use this for doing illegal purposes.
 
-# Python / PY
+# Python
 
 1. Install [Python](https://www.python.org/downloads/)
 2. Run `pip install ipinfo pycountry` in terminal
 3. Run `python main.py` in terminal
 
-# Javascript / JS
+# Javascript
 
 1. Install [Node.js](https://nodejs.org/en/download/)
 2. Run `cd javascript` in terminal
