@@ -3,7 +3,7 @@ const i18n = require("i18n-iso-countries")
 
 const ip = prompt("Target IP Address")
 
-const token = process.env["token"]
+const token = "your https://ipinfo.io token"
 
 fetch(`https://ipinfo.io/${ip}?token=${token}`).then(
   (response) => response.json()
