@@ -1,8 +1,8 @@
 # CAUTION:
 
 EDUCATION PURPOSES ONLY
-- All the files are for **educational purposes** only.  
-- ***DO NOT*** use this for doing illegal purposes.
+- All the files are for **educational purposes** only
+- ***DO NOT*** use this for doing illegal purposes
 
 # Python / PY
 
